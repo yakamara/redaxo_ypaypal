@@ -1,0 +1,17 @@
+/vendor/bin/
+/vendor/paypal/rest-api-sdk-php/.github/
+/vendor/paypal/rest-api-sdk-php/docs/
+/vendor/paypal/rest-api-sdk-php/sample/
+/vendor/paypal/rest-api-sdk-php/tests/
+/vendor/paypal/rest-api-sdk-php/.coveralls.yml
+/vendor/paypal/rest-api-sdk-php/.editorconfig
+/vendor/paypal/rest-api-sdk-php/.gitignore
+/vendor/paypal/rest-api-sdk-php/.releasinator.rb
+/vendor/paypal/rest-api-sdk-php/.travis.yml
+/vendor/paypal/rest-api-sdk-php/CONTRIBUTING.md
+/vendor/paypal/rest-api-sdk-php/Gemfile
+/vendor/paypal/rest-api-sdk-php/Gemfile.lock
+/vendor/paypal/rest-api-sdk-php/generate-api.sh
+/vendor/paypal/rest-api-sdk-php/phpunit.integration.xml
+/vendor/paypal/rest-api-sdk-php/phpunit.xml
+/vendor/paypal/rest-api-sdk-php/Rakefile
